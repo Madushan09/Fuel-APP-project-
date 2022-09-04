@@ -1,2 +1,1 @@
-# Fuel-APP-project-
-Fuel APP(project)
+this is a readme file of this sipmle project
